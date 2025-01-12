@@ -32,3 +32,23 @@ Este es un proyecto inicial desarrollado en Java que utiliza archivos de texto (
 
 - **Entorno de Desarrollo Integrado (IDE):** Recomendado IntelliJ IDEA, Eclipse o NetBeans.
 
+## Capturas de Pantalla
+
+### 1. Pantalla de Inicio de Sesión
+![Login](./img/login.png)
+
+### 2. Menú Principal
+![Menú Principal](./img/menu.png)
+
+### 3. Administrar Empleados
+![Administrar Empleados](./img/administrar_empleados.png)
+
+### 4. Crear un Nuevo Pedido
+![Nuevo Pedido](./img/nuevo_pedido.png)
+
+### 5. Pedido para Delivery
+![Pedido Delivery](./img/pedido_delivery.png)
+
+### 6. Pedido en el Local
+![Pedido Local](./img/pedido_local.png)
+
