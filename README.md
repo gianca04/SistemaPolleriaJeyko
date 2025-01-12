@@ -32,15 +32,3 @@ Este es un proyecto inicial desarrollado en Java que utiliza archivos de texto (
 
 - **Entorno de Desarrollo Integrado (IDE):** Recomendado IntelliJ IDEA, Eclipse o NetBeans.
 
-### Instalación
-
-- Clona este repositorio:
-
-```git clone https://github.com/tuusuario/proyecto-java.git```
-
-- Importa el proyecto en tu IDE favorito.
-
-- Asegúrate de que el archivo usuarios.txt esté presente en la carpeta data.
-
-- Ejecuta el archivo Main.java.
-
