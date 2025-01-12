@@ -44,11 +44,12 @@ Este es un proyecto inicial desarrollado en Java que utiliza archivos de texto (
 ![Administrar Empleados](./img/administrar_empleados.png)
 
 ### 4. Crear un Nuevo Pedido
-![Nuevo Pedido](./img/nuevo_pedido.png)
+![Nuevo Pedido](./img/nueva_pedido.png)
 
 ### 5. Pedido para Delivery
 ![Pedido Delivery](./img/pedido_delivery.png)
 
 ### 6. Pedido en el Local
-![Pedido Local](./img/pedido_local.png)
+![Pedido Local](./img/pedidos_local.png
+)
 
